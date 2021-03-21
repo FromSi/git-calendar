@@ -116,7 +116,7 @@ func getCalendarCommitDataGitlab(username string) [][]int {
 // Получение от-до дат в двумерном массиве
 func getCalendarDates() [][]string {
 	timeNow := time.Now()
-	timeAfter := timeNow.AddDate(0, -9, 0)
+	timeAfter := timeNow.AddDate(0, -11, 0)
 	timeAfter = timeAfter.AddDate(0, 0, -int(timeAfter.Weekday()+0))
 	timeDiff := int(timeNow.Sub(timeAfter) / (24 * time.Hour))
 
