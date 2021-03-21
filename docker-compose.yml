@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  golang:
+    build: .
+    ports:
+      - "2004:2004"
