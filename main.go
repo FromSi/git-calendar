@@ -38,6 +38,7 @@ func main() {
 // Генерация SVG в виде конечного календаря
 func handlerRoute(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "image/svg+xml")
+	w.Header().Set("Cache-Control", "public, max-age=3600")
 
 	//убрать "/gitlab/" символы
 	trimmedURL := r.URL.Path[8:]
