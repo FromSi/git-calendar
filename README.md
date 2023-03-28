@@ -8,9 +8,9 @@
 
 Add line in README.md
 ```
-<img src="http://git-calendar.fromsi.net/gitlab/{you_username}">
+<img src="https://git-calendar.fromsi.net/gitlab/{you_username}">
 ```
 
-Результат:
+Result:
 
-<img src="http://git-calendar.fromsi.net/gitlab/FromSi">
+<img src="https://git-calendar.fromsi.net/gitlab/stanhu">
