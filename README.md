@@ -1,7 +1,7 @@
 # calendar
 ## Ручной разворот: 
 1) Склонировать репозиторий
-2) Запустить `docker-compose up`
+2) Запустить `docker compose up` или запустить в фоне `docker compose up -d`
 3) Зайти http://localhost:2004/gitlab/{username}
 
 ## Install in profile README.md
