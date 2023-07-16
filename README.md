@@ -4,9 +4,7 @@
 2) Запустить `docker compose up` или запустить в фоне `docker compose up -d`
 3) Зайти http://localhost:2004/gitlab/{username}
 
-## Install in profile README.md
-
-Add line in README.md
+## Add line to README.md
 ```
 <img src="https://git-calendar.fromsi.net/gitlab/{you_username}">
 ```
