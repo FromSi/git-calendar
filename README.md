@@ -11,4 +11,4 @@
 
 Result:
 
-<img src="https://git-calendar.fromsi.net/gitlab/stanhu">
+<img src="http://git-calendar.fromsi.net/gitlab/stanhu">
