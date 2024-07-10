@@ -6,7 +6,7 @@
 
 ## Add line to README.md
 ```
-<img src="https://git-calendar.fromsi.net/gitlab/{you_username}">
+<img src="http://git-calendar.fromsi.net/gitlab/{you_username}">
 ```
 
 Result:
