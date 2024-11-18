@@ -9,6 +9,9 @@
 <img src="http://git-calendar.fromsi.net/gitlab/{you_username}">
 ```
 
-Result:
+Ссылка на просмотр календаря:
+https://git-calendar.fromsi.net/gitlab/stanhu
+
+Result (не всегда показывает):
 
 <img src="http://git-calendar.fromsi.net/gitlab/stanhu">
